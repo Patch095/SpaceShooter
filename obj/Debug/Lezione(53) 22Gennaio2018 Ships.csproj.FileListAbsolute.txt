@@ -1,0 +1,30 @@
+C:\Users\tommaso\source\repos\Lezione(53) 22Gennaio2018 Ships\Lezione(53) 22Gennaio2018 Ships\obj\Debug\Lezione(53) 22Gennaio2018 Ships.csprojResolveAssemblyReference.cache
+C:\Users\tommaso\source\repos\Lezione(53) 22Gennaio2018 Ships\Lezione(53) 22Gennaio2018 Ships\obj\Debug\Lezione(53) 22Gennaio2018 Ships.csproj.CoreCompileInputs.cache
+C:\Users\tommaso\source\repos\Lezione(53) 22Gennaio2018 Ships\Lezione(53) 22Gennaio2018 Ships\bin\Debug\Assets\beams.png
+C:\Users\tommaso\source\repos\Lezione(53) 22Gennaio2018 Ships\Lezione(53) 22Gennaio2018 Ships\bin\Debug\Assets\enemy.png
+C:\Users\tommaso\source\repos\Lezione(53) 22Gennaio2018 Ships\Lezione(53) 22Gennaio2018 Ships\bin\Debug\Assets\FF8_UFO.png
+C:\Users\tommaso\source\repos\Lezione(53) 22Gennaio2018 Ships\Lezione(53) 22Gennaio2018 Ships\bin\Debug\Assets\playerShip.png
+C:\Users\tommaso\source\repos\Lezione(53) 22Gennaio2018 Ships\Lezione(53) 22Gennaio2018 Ships\bin\Debug\Assets\simpleFont.png
+C:\Users\tommaso\source\repos\Lezione(53) 22Gennaio2018 Ships\Lezione(53) 22Gennaio2018 Ships\bin\Debug\Assets\spaceBg.png
+C:\Users\tommaso\source\repos\Lezione(53) 22Gennaio2018 Ships\Lezione(53) 22Gennaio2018 Ships\bin\Debug\Lezione(53) 22Gennaio2018 Ships.exe.config
+C:\Users\tommaso\source\repos\Lezione(53) 22Gennaio2018 Ships\Lezione(53) 22Gennaio2018 Ships\bin\Debug\Lezione(53) 22Gennaio2018 Ships.exe
+C:\Users\tommaso\source\repos\Lezione(53) 22Gennaio2018 Ships\Lezione(53) 22Gennaio2018 Ships\bin\Debug\Lezione(53) 22Gennaio2018 Ships.pdb
+C:\Users\tommaso\source\repos\Lezione(53) 22Gennaio2018 Ships\Lezione(53) 22Gennaio2018 Ships\bin\Debug\aiv-fast2d.dll
+C:\Users\tommaso\source\repos\Lezione(53) 22Gennaio2018 Ships\Lezione(53) 22Gennaio2018 Ships\bin\Debug\OpenTK.dll
+C:\Users\tommaso\source\repos\Lezione(53) 22Gennaio2018 Ships\Lezione(53) 22Gennaio2018 Ships\bin\Debug\OpenTK.xml
+C:\Users\tommaso\source\repos\Lezione(53) 22Gennaio2018 Ships\Lezione(53) 22Gennaio2018 Ships\obj\Debug\Lezione(53) 22Gennaio2018 Ships.exe
+C:\Users\tommaso\source\repos\Lezione(53) 22Gennaio2018 Ships\Lezione(53) 22Gennaio2018 Ships\obj\Debug\Lezione(53) 22Gennaio2018 Ships.pdb
+C:\Users\tommaso\source\repos\Lezione(53) 22Gennaio2018 Ships\Lezione(53) 22Gennaio2018 Ships\bin\Debug\Assets\enemy2.png
+C:\Users\tommaso\source\repos\Lezione(53) 22Gennaio2018 Ships\Lezione(53) 22Gennaio2018 Ships\bin\Debug\Assets\omega.png
+C:\Users\tommaso\source\repos\Lezione(53) 22Gennaio2018 Ships\Lezione(53) 22Gennaio2018 Ships\bin\Debug\Assets\fireGlobe.png
+C:\Users\tommaso\source\repos\Lezione(53) 22Gennaio2018 Ships\Lezione(53) 22Gennaio2018 Ships\bin\Debug\Assets\explosion.png
+C:\Users\tommaso\source\repos\Lezione(53) 22Gennaio2018 Ships\Lezione(53) 22Gennaio2018 Ships\bin\Debug\Assets\ZombieSpriteSheet.png
+C:\Users\tommaso\source\repos\Lezione(53) 22Gennaio2018 Ships\Lezione(53) 22Gennaio2018 Ships\bin\Debug\Assets\SpriteSheetConf.xml
+C:\Users\tommaso\source\repos\Lezione(53) 22Gennaio2018 Ships\Lezione(53) 22Gennaio2018 Ships\bin\Debug\Assets\loadingBar_bar.png
+C:\Users\tommaso\source\repos\Lezione(53) 22Gennaio2018 Ships\Lezione(53) 22Gennaio2018 Ships\bin\Debug\Assets\loadingBar_frame.png
+C:\Users\tommaso\source\repos\Lezione(53) 22Gennaio2018 Ships\Lezione(53) 22Gennaio2018 Ships\bin\Debug\Assets\pressEnter.png
+C:\Users\tommaso\source\repos\Lezione(53) 22Gennaio2018 Ships\Lezione(53) 22Gennaio2018 Ships\bin\Debug\Assets\aivBG.png
+C:\Users\tommaso\source\repos\Lezione(53) 22Gennaio2018 Ships\Lezione(53) 22Gennaio2018 Ships\bin\Debug\Assets\welcomeBg.jpg
+C:\Users\tommaso\source\repos\Lezione(53) 22Gennaio2018 Ships\Lezione(53) 22Gennaio2018 Ships\bin\Debug\Assets\blueLaser.png
+C:\Users\tommaso\source\repos\Lezione(53) 22Gennaio2018 Ships\Lezione(53) 22Gennaio2018 Ships\bin\Debug\Assets\gameOverBg.png
+C:\Users\tommaso\source\repos\Lezione(53) 22Gennaio2018 Ships\Lezione(53) 22Gennaio2018 Ships\bin\Debug\Assets\ASH.png
